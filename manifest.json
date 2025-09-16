@@ -1,0 +1,21 @@
+{
+  "short_name": "Aura Player",
+  "name": "Aura Music Player",
+  "description": "An offline-capable music player for your local audio files.",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#A855F7",
+  "background_color": "#0A0A0A"
+}
